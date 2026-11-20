@@ -1,0 +1,2 @@
+# Indian-Ecommerce-Pricing-Strategy-and-Revenue-Performance-Analytics-Python.
+Analyzed 36 months of Indian e-commerce sales data using Python to investigate pricing strategies, discount effectiveness, revenue growth, customer purchasing behavior, and regional market performance.  Applied data cleaning, Exploratory Data Analysis (EDA), descriptive statistics, customer segmentation, and data visualization .
